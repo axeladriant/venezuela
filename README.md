@@ -32,7 +32,7 @@ Cada tema tiene un documento raíz y una carpeta con documentos más detallados.
 
 | Tema | Documento | Detalle |
 |------|-----------|---------|
-| 🫀 Salud | [salud.md](./salud.md) | [alimentación](./salud/alimentacion.md), [higiene](./salud/higiene.md), [medicinas](./salud/medicinas.md) |
+| 🫀 Salud | [salud.md](./salud.md) | [alimentación](./salud/alimentacion.md), [higiene](./salud/higiene.md), [medicinas](./salud/medicinas.md), [plantas](./salud/plantas.md) |
 | 📚 Educación | [educacion.md](./educacion.md) | formación por etapas de vida |
 | 🌱 Cultivación del corazón | [cultivacion.md](./cultivacion.md) | carácter, verdad, responsabilidad, compasión |
 | 🔨 Oficios fundamentales | [oficios.md](./oficios.md) | tierra, manos, sustento, supervivencia |

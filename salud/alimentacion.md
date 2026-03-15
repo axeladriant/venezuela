@@ -52,9 +52,43 @@ Enfoque en densidad nutricional: más nutrientes por caloría. Calcio, magnesio,
 
 ---
 
-## Alimentos venezolanos subestimados
+## Alimentos venezolanos antiinflamatorios
 
-El cacao (uno de los mejores del mundo, antiinflamatorio poderoso), el chayote, la batata, el ñame, la guanábana, la moringa, el mapuey, la auyama, el merey. Venezuela tiene un arsenal nutricional que exporta sin consumir conscientemente.
+Venezuela tiene un arsenal nutricional que exporta sin consumir conscientemente. Estos son algunos de los más potentes:
+
+**Frutas tropicales:** Papaya (enzimas digestivas, antiinflamatoria), mango (antioxidantes, vitamina A), guayaba (vitamina C extraordinaria — más que la naranja), piña (bromelina para digestión e hinchazón), guanábana (antioxidantes potentes).
+
+**Raíces y tubérculos:** Yuca (fibra, energía estable sin picos de glucosa), batata/camote (betacarotenos, mineral-densa), ocumo, ñame, mapuey — todos superiores nutricionalmente a las harinas refinadas como fuente de carbohidratos.
+
+**Hierbas y especias locales:** Cúrcuma con pimienta negra (la piperina aumenta la absorción de curcumina hasta 2000%), ajo (antimicrobiano, regulador de presión), jengibre (antiinflamatorio potente), cilantro, comino — todos van naturalmente en arepas, sopas o tés.
+
+**Proteínas accesibles:** Sardinas y atún (omega-3, económicos), huevos (proteína completa), caraotas negras y lentejas (fibra, hierro, proteína vegetal), merey/marañón (grasas saludables, magnesio).
+
+**Grasas saludables:** Aguacate (omnipresente y subestimado), aceite de coco, cacao puro (uno de los mejores del mundo, antiinflamatorio poderoso), chía (históricamente de la región).
+
+**Lo que hay que decir sobre la harina PAN:** La arepa es identidad venezolana. Pero la harina precocida es un producto ultraprocesado — maíz desgrasado, refinado, fortificado artificialmente. No es veneno, pero tampoco es el maíz que comían nuestros abuelos. La alternativa es maíz pilado, masa fresca, o al menos complementar con los rellenos más nutritivos posibles (aguacate, caraotas, huevo, queso fresco).
+
+Reclamar patrones alimentarios más cercanos a lo que crecía naturalmente aquí — antes de que importar fuera más fácil que sembrar — no es nostalgia. Es nutrición.
+
+---
+
+## Ayuno intermitente
+
+La evidencia muestra que el ayuno intermitente mejora la sensibilidad a la insulina, reduce inflamación, favorece la quema de grasa y aumenta la claridad mental. No es una dieta de moda — es una práctica con respaldo creciente de investigación y con raíces en muchas tradiciones antiguas.
+
+Para quien quiera explorarlo, la progresión gradual es clave:
+
+**12/12** — El punto de partida más suave. Comer dentro de una ventana de 12 horas (por ejemplo, 7 AM a 7 PM). Esto ya es más de lo que muchas personas practican, y permite al cuerpo tener 12 horas de descanso digestivo.
+
+**14/10** — Un paso intermedio. Ventana de alimentación de 10 horas (por ejemplo, 9 AM a 7 PM). La mayoría de las personas se adaptan a esto sin dificultad.
+
+**16/8** — El protocolo más popular y estudiado. Comer dentro de 8 horas (por ejemplo, 12 PM a 8 PM). Café negro, té y agua están permitidos durante el ayuno. Romper el ayuno con comida nutritiva y densa — no con ultraprocesados.
+
+**24 horas** — Una vez por semana, para quienes ya están adaptados. Requiere hidratación constante y no es para todos. Supervisión recomendada las primeras veces.
+
+**Lo que la evidencia dice:** Mejor metabolismo de glucosa, reducción de marcadores inflamatorios, posibles beneficios para la longevidad celular (autofagia). Los datos hasta 2025 muestran beneficios sostenidos para salud metabólica.
+
+**Lo que hay que saber:** No es para embarazadas, personas con bajo peso, ni para quienes tienen historia de desórdenes alimenticios. Hidratarse bien. Escuchar al cuerpo. El ayuno no es castigo — es descanso para el sistema digestivo.
 
 ---
 
