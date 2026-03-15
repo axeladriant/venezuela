@@ -16,8 +16,6 @@
       --blockquote-fg: #6a737d;
       --table-border: #dfe2e5;
       --table-alt: #f6f8fa;
-      --col-width: 800px;
-      --gap: 3rem;
     }
 
     @media (prefers-color-scheme: dark) {
@@ -43,38 +41,9 @@
       line-height: 1.6;
       color: var(--fg);
       background: var(--bg);
-      max-width: var(--col-width);
+      max-width: 800px;
       margin: 0 auto;
       padding: 2rem 1.5rem;
-    }
-
-    @media (min-width: 1400px) {
-      body {
-        max-width: calc(var(--col-width) * 2 + var(--gap));
-      }
-
-      .content {
-        columns: 2;
-        column-gap: var(--gap);
-        column-rule: 1px solid var(--border);
-      }
-
-      .content h1,
-      .content h2 {
-        column-span: all;
-      }
-
-      .content table {
-        column-span: all;
-      }
-
-      .content blockquote:first-child {
-        column-span: all;
-      }
-
-      .content hr {
-        column-span: all;
-      }
     }
 
     a { color: var(--link); text-decoration: none; }
@@ -147,8 +116,6 @@
   <nav class="site-header">
     <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
   </nav>
-  <div class="content">
-    {{ content }}
-  </div>
+  {{ content }}
 </body>
 </html>
