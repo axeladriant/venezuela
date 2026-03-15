@@ -37,6 +37,7 @@ Cada tema tiene un documento raíz y una carpeta con documentos más detallados.
 | 🌱 Cultivación del corazón | [cultivacion.md](./cultivacion.md) | carácter, verdad, responsabilidad, compasión |
 | 🔨 Oficios fundamentales | [oficios.md](./oficios.md) | tierra, manos, sustento, supervivencia |
 | 👔 Vestimenta | [vestimenta.md](./vestimenta.md) | dignidad, practicidad, identidad |
+| 🕊️ Religión | [religion.md](./religion.md) | historia, sistemas humanos, el alma, cultivación |
 
 ### Parte III — Políticas *(próximamente)*
 
