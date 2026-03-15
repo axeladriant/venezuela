@@ -1,4 +1,4 @@
-# Venezuela: Proyecto para la Reconstrucción Nacional
+# Venezuela: Manual de cultivación
 
 Nuestra idiosincrasia y décadas de mal gobierno nos pusieron de rodillas. Pero un pueblo que reconoce sus errores es un pueblo que puede levantarse — y levantarse indefinidamente.
 
