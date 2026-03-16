@@ -23,7 +23,7 @@ El proyecto se organiza en dos partes: un **diagnóstico** de cómo llegamos aqu
 | # | Capítulo | Estado |
 |---|---------|--------|
 | I | [El desafío venezolano](./capitulos/01-el-desafio-venezolano.md) | ✅ |
-| II | [La psicología del venezolano moderno](./capitulos/02-la-psicologia-del-venezolano-moderno.md) | 🔜 |
+| II | [La psicología del venezolano moderno](./capitulos/02-la-psicologia-del-venezolano-moderno.md) | ✅ |
 | III | Marco teórico: Niveles de consciencia aplicados a la gobernanza | 🔜 |
 
 ### Parte II — Guía de vida
