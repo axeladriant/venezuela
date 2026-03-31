@@ -14,6 +14,12 @@ Venezuela tiene una ventaja enorme y desperdiciada: una flora medicinal extraord
 
 ---
 
+## Conocer la máquina
+
+Antes de hablar de qué comer, cómo moverse o cuándo descansar, conviene entender la máquina por dentro — de la cabeza a los pies. Qué hace cada parte, qué la daña, qué la protege, y cómo todo está conectado. → [El cuerpo: mapa de la máquina](./salud/el-cuerpo.md)
+
+---
+
 ## La máquina y sus responsabilidades
 
 ### Alimentación
