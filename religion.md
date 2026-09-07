@@ -1,1 +1,1 @@
-file:///workspace/venezuela-edited/religion.md
+${file:/workspace/venezuela-edited/religion.md}
