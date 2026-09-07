@@ -8,7 +8,7 @@ Este repositorio es un compendio de ideas fundamentadas en un marco de elevació
 
 ## Nota ideológica
 
-Este proyecto **no es de izquierda ni de derecha**. Esas categorías son herencia de la Revolución Francesa — un evento sangriento, materialista y mal ejecutado cuyas divisiones seguimos arrastrando más de dos siglos después. Izquierda y derecha son etiquetas que dividen, simplifican y empobrecen el pensamiento. No las necesitamos.
+Este proyecto **no es de izquierda ni de derecha**. Esas categorías nacieron del hemiciclo de 1789, en la Revolución Francesa; arrastramos esas etiquetas más de dos siglos después. (Que aquella revolución fue sangrienta es un hecho histórico; llamarla «materialista» o «mal ejecutada» es ya un juicio de valor.) Izquierda y derecha son etiquetas que dividen, simplifican y empobrecen el pensamiento. No las necesitamos.
 
 Lo que aquí se propone no cabe en un espectro lineal. Se trata de ideas orientadas a la vida plena, la responsabilidad individual, la salud colectiva y la dignidad del trabajo. Si una idea funciona, no importa de qué lado del hemiciclo francés habría sentado a su autor.
 
@@ -17,6 +17,10 @@ Lo que aquí se propone no cabe en un espectro lineal. Se trata de ideas orienta
 ## Estructura
 
 El proyecto se organiza en dos partes: un **diagnóstico** de cómo llegamos aquí, y una **guía de vida** — lo que todo ciudadano necesita saber para navegar una vida plena, independientemente de su oficio o circunstancia.
+
+### Prefacio
+
+[Prefacio](./prefacio.md)
 
 ### Parte I — Diagnóstico
 
