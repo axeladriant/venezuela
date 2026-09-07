@@ -86,7 +86,7 @@ Lo que los protege: no fumar, ejercicio aeróbico (caminar, nadar, bailar), resp
 
 El corazón late unas 100.000 veces al día, bombeando sangre a través de unos 100.000 kilómetros de vasos sanguíneos. Es un músculo — y como todo músculo, se fortalece con uso y se deteriora con abandono.
 
-Las arterias se dañan por inflamación crónica, no simplemente por "colesterol alto". Cuando las paredes arteriales se inflaman, el colesterol LDL se deposita en ellas, forma placas, y con el tiempo estrecha o bloquea el flujo — infarto o derrame.
+Las arterias se dañan por un proceso en el que intervienen la inflamación crónica *y* el colesterol LDL (ambos importan: el LDL sigue siendo causal en la aterosclerosis). Cuando hay inflamación en la pared arterial, el LDL puede depositarse y formar placas, y con el tiempo estrecha o bloquea el flujo — infarto o derrame.
 
 Lo que lo daña: sedentarismo, tabaco, exceso de azúcar y aceites industriales (aceite de soya, maíz, canola ultraprocesados), estrés crónico, hipertensión no controlada, inflamación sistémica.
 
@@ -98,7 +98,7 @@ Lo que lo protege: movimiento diario (30 minutos de caminata ya marca diferencia
 
 El laboratorio químico del cuerpo. Filtra toxinas de la sangre, produce bilis para digerir grasas, almacena glucógeno (energía de reserva), regula colesterol, procesa medicamentos y alcohol.
 
-El hígado tiene una capacidad de regeneración asombrosa — puede recuperar hasta el 75% de su masa si se le da la oportunidad. Pero esa capacidad tiene límite.
+El hígado tiene una capacidad de regeneración asombrosa — puede regenerarse a partir de un remanente de aproximadamente un cuarto a un tercio de su masa, si está sano. Pero esa capacidad tiene límite.
 
 **Hígado graso:** Cuando la dieta tiene exceso de azúcar y carbohidratos refinados, el hígado convierte el excedente en grasa y la almacena en sí mismo. El hígado graso no alcohólico es una epidemia silenciosa — no duele, no se siente, hasta que el daño es severo.
 
@@ -112,7 +112,7 @@ Lo que lo protege: reducir azúcar y alcohol, ayuno intermitente (permite al hí
 
 El tracto digestivo mide unos 9 metros y es donde la comida se convierte en nutrientes o en problemas. El estómago produce ácido clorhídrico para descomponer alimentos. El intestino delgado absorbe nutrientes. El intestino grueso absorbe agua y aloja la microbiota.
 
-**Microbioma intestinal:** El intestino contiene billones de bacterias — más células microbianas que células humanas en todo el cuerpo. Esta comunidad microbiana influye en la digestión, la inmunidad (el 70% del sistema inmune está en el intestino), el estado de ánimo (la mayoría de la serotonina se produce ahí), la inflamación sistémica y hasta el peso corporal.
+**Microbioma intestinal:** El intestino aloja billones de bacterias — en número, del mismo orden que las células humanas (~1:1), no «muchísimas más». Esta comunidad microbiana influye en la digestión, la inmunidad mucosa (el tejido linfoide asociado al intestino, GALT, es uno de los mayores compartimentos inmunes mucosos; la cifra popular del «70%» es una simplificación sin censo sólido), el estado de ánimo (la mayor parte de la serotonina del cuerpo se produce en el intestino, pero esa serotonina no cruza libremente al cerebro), la inflamación sistémica y hasta el peso corporal.
 
 Una microbiota diversa y equilibrada protege. Una microbiota empobrecida — por antibióticos excesivos, dieta ultraprocesada, estrés — enferma.
 
@@ -174,7 +174,7 @@ El esqueleto no es una estructura estática — es tejido vivo que se remodela c
 
 Lo que los daña: sedentarismo (los huesos necesitan impacto para fortalecerse), deficiencia de calcio y vitamina D, tabaco, exceso de alcohol, refrescos (el ácido fosfórico interfiere con la absorción de calcio).
 
-Lo que los protege: ejercicio con impacto (caminar, correr, bailar, levantar peso), calcio (ajonjolí, sardinas con espina, caraotas, queso), vitamina D (sol — 15 minutos al día en Venezuela es suficiente), magnesio.
+Lo que los protege: ejercicio con impacto (caminar, correr, bailar, levantar peso), calcio (ajonjolí, sardinas con espina, caraotas, queso), vitamina D (sol — en clima tropical, exposiciones breves suelen ayudar, pero la necesidad varía según piel, hora, ropa y edad; no hay una dosis solar única), magnesio.
 
 ---
 
