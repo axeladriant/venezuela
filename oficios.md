@@ -20,7 +20,7 @@ Los oficios fundamentales no son un retroceso al pasado. Son la base sobre la cu
 
 Todo ciudadano debería tener conocimiento básico de siembra y cosecha, no como profesión sino como capacidad. Esto incluye cultivo de alimentos básicos (maíz, yuca, plátano, frijoles, hortalizas), manejo de suelos y compostaje, ciclos de siembra según la región y el clima, y conservación de semillas.
 
-Venezuela tiene una diversidad climática que permite cultivar prácticamente cualquier cosa. Un país tropical con agua abundante que importa alimentos es un país que perdió el rumbo.
+Venezuela tiene una diversidad climática que permite una gama muy amplia de cultivos tropicales y de altura. Un país tropical con agua abundante que importa buena parte de sus alimentos es un país que perdió el rumbo.
 
 ### Producción de alimentos
 
