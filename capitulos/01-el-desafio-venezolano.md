@@ -1,7 +1,7 @@
 # I — El desafío venezolano
 
-> *"Debemos sembrar el petróleo."*
-> — Arturo Uslar Pietri, 1936
+> *“…sembrar el petróleo.”*
+> — Arturo Uslar Pietri, editorial en *Ahora*, 14 de julio de 1936
 
 ---
 
@@ -68,7 +68,7 @@ Estos no son accidentes. Son el resultado inevitable de un Estado que dejó de f
 
 ## 7. Destrucción ambiental
 
-La minería ilegal y la explotación descontrolada han devastado partes importantes del país. El Arco Minero del Orinoco es quizás el ejemplo más dramático: una región de extraordinaria biodiversidad convertida en zona de extracción salvaje.
+La minería ilegal y la explotación descontrolada han devastado partes importantes del país. El Arco Minero del Orinoco (Zona de Desarrollo Estratégico Nacional creada por el Decreto 2.248 de 2016, del orden de ~112.000 km²) es quizás el ejemplo más dramático: una región de extraordinaria biodiversidad convertida en zona de extracción salvaje.
 
 Esto refleja un problema profundo: la desconexión entre sociedad y territorio. Un país que destruye su propia tierra no solo compromete su futuro económico — revela que ha perdido la capacidad de pensar más allá del presente inmediato.
 
