@@ -22,7 +22,7 @@ De Sumeria heredamos mitos de creación, diluvios, jerarquías divinas y la idea
 
 ## El Mediterráneo: fenicios, cananeos, hebreos, griegos, romanos
 
-Los fenicios influyeron tanto en los cananeos como en los egipcios y los griegos. Sanchuniathon, el cronista fenicio, describió cosmogonías y orígenes de ciertos conceptos que luego aparecerían transformados en otras tradiciones — incluyendo conceptos sobre demonios y figuras primordiales.
+Los fenicios influyeron tanto en los cananeos como en los egipcios y los griegos. Sanchuniathon — conocido hoy a través de Filón de Biblos — describió cosmogonías y orígenes de ciertos conceptos que luego aparecerían transformados en otras tradiciones, incluyendo ideas sobre demonios y figuras primordiales.
 
 La religión hebrea fue muy influenciada por tradiciones del sur de Egipto (¿Seth?) y por las tradiciones cananeas. El término Elohim tiene raíces en tradiciones semíticas antiguas relacionadas con los seguidores de El. Lo que hoy conocemos como judaísmo fue un proceso largo de selección, edición y reinterpretación de estas influencias múltiples.
 
@@ -34,13 +34,13 @@ Todas estas figuras — Enlil, Yahvé, Júpiter, y las que vinieron después —
 
 ## La línea divisoria
 
-Hay una línea que divide claramente dos tipos de tradición espiritual.
+Este Manual propone una línea interpretativa para distinguir dos tipos de tradición espiritual.
 
 De un lado están los sistemas que exigen adoración, sacrificio, rituales, obediencia y conquista. Enlil fue el primero. Después vinieron los demás — con diferentes nombres, diferentes culturas, diferentes épocas, pero el mismo patrón: un dios en la cima que demanda sumisión a cambio de protección o beneficio material.
 
 Del otro lado están los cultivadores del corazón. Buda nunca pidió ser adorado. Laozi nunca pidió templos. Jesús nunca pidió rituales de sangre. Su enseñanza era interior: observarse, transformarse, amar. No exigieron nada — ofrecieron un camino.
 
-Esta es la línea. Y es la más importante de toda la historia religiosa.
+Esa es la línea interpretativa que este Manual considera más útil para leer la historia religiosa.
 
 Pero la vida real no respeta líneas limpias. En la práctica, ambos lados coexisten dentro de las mismas tradiciones — a veces dentro de la misma persona. El catolicismo colonial llegó a América con la espada y la cruz, exigiendo sumisión, pero dentro de ese mismo sistema nacieron Francisco de Asís, los cátaros y los místicos que buscaban algo genuino. El sufismo nació dentro del Islam. El budismo zen floreció junto a imperios que lo usaban para legitimar la guerra. La historia de la fe no se entiende trazando líneas rígidas solamente — también hay que explorar los espacios complejos donde la humanidad simplemente intenta sobrevivir, encontrar sentido, y a veces, en medio de todo eso, toca algo verdadero.
 
@@ -62,13 +62,13 @@ Desde ese punto, la humanidad siempre ha amado — quizás no adorado, pero sí 
 
 De Mami nacieron Inanna e Ishtar en Mesopotamia — diosas de la fertilidad, el amor y la guerra, complejas y poderosas. En Asia, Nüwa moldeó a los humanos del barro y reparó el cielo. Izanami dio a luz las islas de Japón. En Egipto, Isis fue madre, sanadora y guardiana de los muertos — y su culto sobrevivió hasta bien entrada la era romana. En Canaán, Asherah fue la consorte de El y luego de Yahvé.
 
-Pero hubo un punto de quiebre. Los historiadores sitúan un momento clave en las tradiciones judías post-exilio a Babilonia, cuando se escribieron los primeros libros de la Biblia. Fue en ese período cuando Yahvé como deidad se "divorció" de Asherah. Esto no solo significó borrar la influencia femenina de la religión — significó degradar a la mujer a propiedad del hombre.
+Pero no hubo un único "divorcio" fechado con claridad. La composición bíblica fue estratificada y se extendió por siglos; dentro de ese proceso, las reformas monoteístas fueron marginando el culto a Asherah y otras expresiones religiosas vinculadas a la figura femenina. Desde la lectura de este Manual, esa marginación no solo redujo la influencia femenina en la religión, sino que también reforzó estructuras donde la mujer quedó más subordinada al hombre.
 
 Las historias bíblicas tienden a culpar a las mujeres por los problemas (Eva, Dalila, Jezabel) o a idealizar a la mujer sumisa y callada como la esposa perfecta. Esto no es un detalle menor — es un patrón deliberado que moldeó milenios de relación entre géneros.
 
 Y sin embargo, la madre volvió. Júpiter y los romanos trataron mejor a las mujeres — quizás gracias a Hera y a todas las figuras femeninas poderosas de su fuente griega, y a las culturas europeas donde el rol de la madre es más respetado. María, la madre de Jesús, recibió de los romanos atributos de Artemisa y Atenea, convirtiéndose en algo mucho más grande que lo que el contexto hebreo le habría permitido ser. El hilo se restableció.
 
-Siguiendo la línea abrahámica, el Islam llevó la degradación de la mujer aún más lejos. En su expresión más extrema, las mujeres son tratadas como premios para los creyentes que alcanzan el paraíso — las Hoor al-Ayn (compañeras puras de ojos brillantes) o Azwaj Mutahharah (esposas purificadas) del Jannah. Solo Maryam (la madre de Jesús) y Fatimah (la hija de Muhammad) son elevadas como modelos — y ambas como figuras virginales y sumisas. En el Islam, la madre fue reducida de nuevo.
+Siguiendo la línea abrahámica, este Manual interpreta que ciertas lecturas e instituciones islámicas llevaron la degradación de la mujer aún más lejos. En sus expresiones más extremas, las mujeres aparecen tratadas como premios para los creyentes que alcanzan el paraíso — las Hoor al-Ayn (compañeras puras de ojos brillantes) o Azwaj Mutahharah (esposas purificadas) del Jannah. Solo Maryam (la madre de Jesús) y Fatimah (la hija de Muhammad) son elevadas como modelos — y ambas, con frecuencia, como figuras virginales y sumisas. En esta interpretación del Manual, allí la madre fue reducida de nuevo.
 
 ### La madre llega a Venezuela
 
@@ -106,7 +106,7 @@ Su mensaje central parece haber sido la cultivación interior, el amor al próji
 
 El Padre del que Jesús habló es amor. No amor romántico, sino el amor que se experimenta en el sacrificio, en la paternidad, en la entrega desinteresada. También en la vejez — donde existe el potencial de alcanzar una claridad que no llega automáticamente, sino que requiere el trabajo interior. Incluso quienes vivieron mal pueden alcanzar esa lucidez cuando el tiempo les quita las máscaras: el padre ausente que busca el perdón de sus hijos, los abuelos que tratan a sus nietos con un amor que no supieron dar a sus propios hijos, porque ahora entienden. Y no hay medicina para el arrepentimiento — solo la posibilidad de actuar diferente con el tiempo que queda. Los humanos sabemos cómo se siente ese amor. No necesitamos que nos lo expliquen — lo reconocemos.
 
-Esto coloca a Jesús mucho más cerca de Buda y Laozi que de Moisés o Muhammad. Su Padre no es un dios que exige sacrificios. Es la fuente de esa chispa interior que crece cuando la cultivamos. Y de todo lo que hemos explorado como humanidad — de toda nuestra locamente incoherente búsqueda — hay algo que parece verdadero: amarnos los unos a los otros es el núcleo del aumento de nuestra conciencia. Usar ese lente para mirar la vida es extraordinariamente poderoso, y es lógico.
+En la lectura comparativa de este Manual, esto coloca a Jesús mucho más cerca de Buda y Laozi que de Moisés o Muhammad. Su Padre no es un dios que exige sacrificios. Es la fuente de esa chispa interior que crece cuando la cultivamos. Y de todo lo que hemos explorado como humanidad — de toda nuestra locamente incoherente búsqueda — hay algo que parece verdadero: amarnos los unos a los otros es el núcleo del aumento de nuestra conciencia. Usar ese lente para mirar la vida es extraordinariamente poderoso, y es lógico.
 
 ### Lo que vino después
 
@@ -116,9 +116,9 @@ Tanto Yahvé como Júpiter fueron presentados como el Padre del que Jesús habl�
 
 Los seguidores de Jesús estaban muy confundidos. Pedro, por ejemplo, es alabado como el fundador de la iglesia — pero fue la iglesia misma la que terminó tratando a María Magdalena como una prostituta, lo cual está muy, muy lejos de la verdad.
 
-Textos fechados como más antiguos que los evangelios canónicos — como el Evangelio de Tomás, el Evangelio de María y el Evangelio de Felipe, encontrados en la biblioteca de Nag Hammadi — fueron tratados como herejía. Estos textos pintan un retrato de la enseñanza de Jesús mucho más interior, centrado en el conocimiento directo (gnosis) más que en la obediencia a sacerdotes. Fueron enterrados en el siglo IV precisamente cuando la iglesia institucional consolidaba su poder, y se usó la violencia para cementar el canon oficial. Eso no es algo que Jesús haría.
+Los textos de Nag Hammadi que hoy conservamos están en códices del siglo IV. La composición de varios de ellos — especialmente el Evangelio de Tomás — sigue siendo debatida, y muchos especialistas los sitúan entre finales del siglo I y el siglo II, no antes del núcleo canónico más temprano. Aun así, textos como el Evangelio de Tomás, el Evangelio de María y el Evangelio de Felipe pintan un retrato de la enseñanza de Jesús mucho más interior, centrado en el conocimiento directo (gnosis) más que en la obediencia a sacerdotes. Los códices fueron enterrados en el siglo IV, precisamente cuando la iglesia institucional consolidaba su poder; atribuir ese entierro únicamente a la violencia usada para cementar el canon oficial es una hipótesis plausible, pero no un hecho único demostrado. Eso no es algo que Jesús haría.
 
-Esto no significa adoptar la cosmología gnóstica completa — el Pleroma y sus emanaciones son elaboraciones que no necesariamente se sostienen. Y otras tradiciones posteriores también intentaron establecer nuevos cánones con resultados muy fantasiosos (como el Libro de Urantia). Pero el hecho de que textos más antiguos fueron destruidos por la fuerza para proteger una versión institucional debería dar que pensar.
+Esto no significa adoptar la cosmología gnóstica completa — el Pleroma y sus emanaciones son elaboraciones que no necesariamente se sostienen. Y otras tradiciones posteriores también intentaron establecer nuevos cánones con resultados muy fantasiosos (como el Libro de Urantia). Pero el hecho de que textos alternativos fueran marginados, condenados o destruidos mientras una versión institucional se imponía por la fuerza debería dar que pensar.
 
 Otros movimientos, como los cátaros (Bons Hommes), que buscaban interpretaciones más interiores y menos institucionales, fueron eventualmente diezmados. La institución que se construyó en nombre de Jesús terminó operando con las mismas herramientas que él rechazó: poder, violencia y obediencia forzada.
 
@@ -128,9 +128,9 @@ Otros movimientos, como los cátaros (Bons Hommes), que buscaban interpretacione
 
 Antes de Muhammad, la península arábiga tenía sus propias tradiciones religiosas — politeístas, tribales, con raíces que algunos conectan con tradiciones semíticas más antiguas. Estas creencias preislámicas aún perviven en ciertas prácticas y merecen estudio por su propia cuenta.
 
-Aproximadamente medio milenio después de Jesús apareció Muhammad. El Islam se convirtió en una religión muy material que también reclamó representar al Padre referido en las palabras de Jesús. En su corriente principal — particularmente en su expresión jihadista y en el modelo del estado bajo Sharia — parece requerir adoración y obediencia a cambio de beneficios materiales y orden social. En este marco, Jesús fue degradado al estatus de profeta.
+Aproximadamente medio milenio después de Jesús apareció Muhammad. El Islam se convirtió en una religión muy material que también reclamó representar al Padre referido en las palabras de Jesús. En la lectura de este Manual, su corriente principal — particularmente en su expresión jihadista y en el modelo del estado bajo Sharia — parece requerir adoración y obediencia a cambio de beneficios materiales y orden social. En este marco interpretativo, Jesús fue degradado al estatus de profeta.
 
-En términos de la línea divisoria, el Islam mainstream cae del mismo lado que las tradiciones que exigen sumisión — más cercano a las creencias cananeas o a la santería que al mensaje original de Jesús. Es, en muchos sentidos, lo opuesto a lo que Jesús enseñó. De la misma manera que las leyes de Moisés no se conectan con el mensaje de Jesús, el Islam institucional tampoco lo hace.
+En términos de la línea divisoria propuesta por este Manual, el Islam mainstream cae del mismo lado que las tradiciones que exigen sumisión — más cercano, en esta interpretación, a las creencias cananeas o a la santería que al mensaje original de Jesús. Es, en muchos sentidos y dentro de este marco, lo opuesto a lo que Jesús enseñó. De la misma manera que las leyes de Moisés no se conectan con el mensaje de Jesús, el Islam institucional tampoco lo hace en esta lectura.
 
 Sin embargo, existe una tradición mística dentro del Islam — el sufismo — que se acerca mucho más a la cultivación del corazón. Rumi, al-Hallaj, Ibn Arabi buscaron una relación interior con lo divino que no pasaba por la obediencia mecánica. Al-Hallaj fue ejecutado por decir "Ana al-Haqq" (Yo soy la Verdad) — algo que suena notablemente parecido a lo que diría un gnóstico o un seguidor místico de Jesús. Los sufíes aparecieron *a pesar* del sistema, no gracias a él — igual que Francisco de Asís apareció a pesar del catolicismo institucional.
 
@@ -152,7 +152,7 @@ Todo esto opera bajo la sombrilla de "Dios" o "Papá Dios" — el Padre de Jesú
 
 ### El tejido conectivo
 
-El núcleo de esta religiosidad es pragmático y utilitario: la fe sirve para protección, salud, amor, trabajo, justicia, venganza o curación. No es dogmática — es vivida, festiva, comunitaria y a menudo mágica. Aunque un 70-80% se declara católico nominal, la práctica real es híbrida y extendida en todas las clases sociales.
+El núcleo de esta religiosidad es pragmático y utilitario: la fe sirve para protección, salud, amor, trabajo, justicia, venganza o curación. No es dogmática — es vivida, festiva, comunitaria y a menudo mágica. Aunque aproximadamente entre 50% y 70% se identifica como católico — según la metodología de cada medición, como Latinobarómetro y otras encuestas — la práctica real es híbrida y extendida en todas las clases sociales.
 
 En su dimensión comunitaria, estas prácticas funcionan como tejido conectivo. Las procesiones, las fiestas, los altares compartidos generan comunidad. Cuando estas tradiciones fueron introducidas, no eran exclusivas — y esa apertura tiene valor. Pero la línea se cruza cuando la fe se convierte en transacción contra el prójimo: pagar por un "trabajo" contra alguien, usar amuletos como armas, o buscar protección sobrenatural para hacer daño. Cuando señalas al otro como enemigo espiritual, eso ya no es fe — es la antítesis de la cultivación del corazón.
 
@@ -160,7 +160,7 @@ En su dimensión comunitaria, estas prácticas funcionan como tejido conectivo. 
 
 Cada región de Venezuela tiene su patrona, reflejando el sincretismo local y la herencia romana de la madre como figura central:
 
-La **Virgen de Coromoto** es la patrona oficial de Venezuela (declarada en 1942). Su aparición en 1652 en Guanare a un cacique indígena — en forma de mariposa o mujer indígena, dejando una imagen pequeña en su mano — conecta lo católico con lo nativo. El santuario en Guanare es sitio de peregrinación nacional.
+La **Virgen de Coromoto** es la patrona oficial de Venezuela (declarada en 1942). El relato clásico de su aparición en 1652 en Guanare describe a una mujer de extraordinaria belleza que dejó una pequeña imagen en la mano del cacique indígena. La asociación con mariposas pertenece más bien a devociones populares posteriores, no a una aparición literal en forma de mariposa. El santuario en Guanare es sitio de peregrinación nacional.
 
 La **Divina Pastora**, patrona de Barquisimeto, convoca cada 14 de enero una de las procesiones más masivas del continente — millones de fieles, nazarenos, promesas con velas y exvotos. Es principalmente católica en esencia, aunque algunos la conectan con espíritus protectores.
 
@@ -210,7 +210,7 @@ Pero el rechazo a las instituciones religiosas no necesariamente responde a la p
 
 ## El diablo
 
-El diablo aparece en muchas formas a lo largo de las tradiciones: Angra Mainyu en el zoroastrismo, Satán en los textos hebreos (que aparece solo unas pocas veces — en Job, en la tentación de Jesús), la serpiente en el jardín (que se asemeja a mitos prometeicos o tipo Enki), y los diversos demonios en las tradiciones hindúes. Sanchuniathon también describió orígenes de ciertos conceptos demoníacos.
+El diablo aparece en muchas formas a lo largo de las tradiciones: Angra Mainyu en el zoroastrismo; el satán/adversario en el Tanaj hebreo, en usos y pasajes como Job, Zacarías y Crónicas; la serpiente en el jardín (que se asemeja a mitos prometeicos o tipo Enki); y los diversos demonios en las tradiciones hindúes. La tentación de Jesús pertenece a los evangelios del Nuevo Testamento, no al Tanaj. Sanchuniathon, conocido por vía de Filón de Biblos, también describió orígenes de ciertos conceptos demoníacos.
 
 El diablo en la teología católica es en gran medida una mezcla de ideas que se desarrollaron con el tiempo, combinando diferentes tradiciones e interpretaciones posteriores de Satán — quien en los textos tempranos aparece más como un miembro del consejo divino (Elohim) que como un adversario cósmico. La figura del mal absoluto personificado es una construcción tardía.
 
@@ -226,7 +226,7 @@ El Ánima Sola encaja en la misma tradición faustiana que permea el concepto ac
 
 No todos dentro de las instituciones religiosas se perdieron. Algunos lograron cruzar la línea — vivir del lado de los cultivadores del corazón desde dentro de un sistema que tendía hacia el poder.
 
-Francisco de Asís intentó seguir las enseñanzas de Jesús de la manera más directa posible: piedad, humildad, pobreza voluntaria, servicio. Su frase "Tu Dios es de tu carne, vive en tu prójimo más cercano, en cada hombre" es una de las expresiones más limpias de lo que Jesús probablemente quiso decir.
+Francisco de Asís intentó seguir las enseñanzas de Jesús de la manera más directa posible: piedad, humildad, pobreza voluntaria, servicio. Se le atribuye la frase "Tu Dios es de tu carne, vive en tu prójimo más cercano, en cada hombre" (autenticidad no confirmada en el corpus crítico franciscano), y expresa con claridad lo que Jesús probablemente quiso decir.
 
 En Venezuela, el santo más popular es José Gregorio Hernández — médico, académico y seguidor de Francisco de Asís, canonizado por la Iglesia Católica. Su vida fue un ejemplo de que es posible vivir con piedad y humildad dentro de un sistema imperfecto. Es un modelo que, aunque pueda parecer incompatible con la cultura del país, representa exactamente lo que este documento propone: cultivar el corazón no como doctrina sino como forma de vida.
 

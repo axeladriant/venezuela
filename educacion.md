@@ -16,7 +16,7 @@ La educación que necesitamos no compite con la académica — la complementa. U
 
 ### Saber vivir
 
-Salud, alimentación, higiene, manejo emocional, relaciones interpersonales. Estos no son "temas complementarios" — son la base sobre la cual todo lo demás se sostiene. Si un niño aprende a comer bien, moverse y gestionar su frustración antes de los 12 años, el resto de su educación será exponencialmente más efectiva.
+Salud, alimentación, higiene, manejo emocional, relaciones interpersonales. Estos no son "temas complementarios" — son la base sobre la cual todo lo demás se sostiene. Si un niño aprende a comer bien, moverse y gestionar su frustración antes de los 12 años, el resto de su educación tendrá una base mucho más sólida.
 
 ### Saber hacer
 

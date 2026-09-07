@@ -40,7 +40,7 @@ Antiinflamatorio potente, digestivo, alivia náuseas. Se usa rallado en infusió
 
 ### Cúrcuma (Curcuma longa)
 
-Antiinflamatorio de amplio espectro gracias a la curcumina. Se potencia combinándola con pimienta negra (piperina aumenta la absorción hasta 2000%). Se usa en infusión, en comidas, o como pasta para inflamaciones tópicas. Evidencia creciente para artritis, digestión y prevención de enfermedades crónicas.
+Antiinflamatorio de amplio espectro gracias a la curcumina. Se potencia tradicionalmente combinándola con pimienta negra (algunos estudios farmacocinéticos antiguos sugieren que la piperina puede elevar niveles sanguíneos de curcumina; el hallazgo no está firmemente replicado y la relevancia clínica es incierta; la piperina puede interactuar con medicamentos). Se usa en infusión, en comidas, o como pasta para inflamaciones tópicas. Evidencia creciente para artritis, digestión y prevención de enfermedades crónicas.
 
 ### Llantén (Plantago major)
 
@@ -68,7 +68,7 @@ Usada tradicionalmente en Venezuela para asma y problemas respiratorios. Se prep
 
 ### Saúco (Sambucus nigra)
 
-Antigripal, febrífugo, expectorante. Infusión de flores para gripe y fiebre. Las bayas cocidas también son útiles (nunca crudas — contienen compuestos que causan malestar). Buena evidencia para reducir duración de resfriados.
+Antigripal, febrífugo, expectorante. Infusión de flores para gripe y fiebre. Las bayas cocidas también son útiles (nunca crudas — contienen compuestos que causan malestar). Posible beneficio modesto sobre síntomas de resfriado en algunos ensayos pequeños; la certeza de la evidencia es baja e incierta.
 
 ---
 
@@ -76,7 +76,7 @@ Antigripal, febrífugo, expectorante. Infusión de flores para gripe y fiebre. L
 
 ### Pasiflora / Parchita silvestre (Passiflora incarnata)
 
-Ansiolítico natural con buena evidencia. Infusión para ansiedad, insomnio y tensión nerviosa. Más suave que la valeriana. La parchita cultivada (Passiflora edulis) es pariente cercana — el jugo de parchita también tiene efecto calmante suave.
+Ansiolítico natural con evidencia prometedora/moderada (ensayos a menudo pequeños). Infusión de partes aéreas para ansiedad, insomnio y tensión nerviosa. Más suave que la valeriana. La parchita cultivada (*Passiflora edulis*) es pariente cercana, pero el efecto calmante del jugo de su fruto no está bien establecido clínicamente — no equivoquemos especies ni partes de la planta.
 
 ### Toronjil (Melissa officinalis)
 
@@ -88,7 +88,7 @@ Clásico para el sueño y la ansiedad. Infusión suave antes de dormir. Seguro, 
 
 ### Valeriana (Valeriana officinalis)
 
-Más potente que las anteriores. Para insomnio persistente y ansiedad marcada. En infusión o tintura. Olor fuerte, sabor amargo. No mezclar con medicamentos sedantes. Buena evidencia científica.
+Más potente que las anteriores. Para insomnio persistente y ansiedad marcada. En infusión o tintura. Olor fuerte, sabor amargo. No mezclar con medicamentos sedantes. Evidencia mixta/limitada para sueño subjetivo.
 
 ---
 
@@ -100,7 +100,7 @@ Rica en vitaminas, minerales y antioxidantes. Las hojas se usan en infusión, en
 
 ### Ajo (Allium sativum)
 
-Antimicrobiano, antiviral, antiinflamatorio, regulador de presión arterial. Crudo es más potente (la alicina se activa al machacar y esperar 10 minutos antes de consumir). Un diente diario en ayunas es práctica tradicional con respaldo científico sólido.
+Antimicrobiano, antiviral, antiinflamatorio, regulador de presión arterial. Crudo es más potente (la alicina se activa al machacar y esperar 10 minutos antes de consumir). Un diente diario en ayunas es práctica tradicional; los metanálisis apoyan un efecto modesto sobre la presión con suplementos, pero no validan ese protocolo concreto como «ciencia sólida». Precaución si hay anticoagulantes o cirugía próxima.
 
 ### Uña de gato (Uncaria tomentosa)
 
@@ -116,11 +116,11 @@ El gel transparente de las hojas es cicatrizante, hidratante, calmante para quem
 
 ### Caléndula (Calendula officinalis)
 
-Antiinflamatoria, cicatrizante, antimicrobiana tópica. En cataplasma o en aceite infusionado para heridas, dermatitis, irritaciones. Segura para uso frecuente en la piel. Buena evidencia para cicatrización.
+Antiinflamatoria, cicatrizante, antimicrobiana tópica. En cataplasma o en aceite infusionado para heridas, dermatitis, irritaciones. Segura para uso frecuente en la piel. Evidencia clínica y tradicional de apoyo para cuidado tópico de heridas/dermatitis.
 
 ### Colombiana / Hoja de la vida (Kalanchoe pinnata)
 
-Usada tradicionalmente en Venezuela para heridas, quemaduras y soporte renal. Se aplica la hoja machacada como cataplasma. También en infusión suave para problemas renales. Muy accesible — crece silvestre y se propaga con facilidad.
+Usada tradicionalmente en Venezuela sobre todo de forma tópica para heridas y quemaduras (hoja machacada como cataplasma). No recomendar uso oral para «problemas renales»: esa indicación carece de evidencia clínica sólida y algunas especies de *Kalanchoe* contienen esteroides cardioactivos — no automedicarse enfermedades del riñón. Muy accesible — crece silvestre y se propaga con facilidad.
 
 ---
 
@@ -132,11 +132,11 @@ Usada tradicionalmente en Venezuela para heridas, quemaduras y soporte renal. Se
 
 ### Onagra (Oenothera biennis)
 
-El aceite de onagra se usa para síntomas premenstruales y de menopausia. Generalmente en cápsulas o aceite. Evidencia moderada pero ampliamente usada.
+El aceite de onagra se usa para síntomas premenstruales y de menopausia. Generalmente en cápsulas o aceite. Ampliamente usada; la evidencia es limitada/mixta.
 
 ### Maca (Lepidium meyenii)
 
-Adaptógena, energizante, reguladora hormonal. En polvo añadido a batidos o comidas. Originaria de los Andes — accesible en mercados. Evidencia para energía, libido y síntomas de menopausia.
+Adaptógena, energizante, reguladora hormonal. En polvo añadido a batidos o comidas. Originaria de los Andes — accesible en mercados. Evidencia limitada/mixta (ensayos pequeños) para energía, libido y síntomas de menopausia.
 
 ---
 
@@ -144,7 +144,7 @@ Adaptógena, energizante, reguladora hormonal. En polvo añadido a batidos o com
 
 ### Pasote / Epazote (Chenopodium ambrosioides)
 
-Usada tradicionalmente en toda Latinoamérica contra parásitos intestinales. Infusión de hojas (dosis pequeñas — es potente). No usar en embarazo ni en niños pequeños sin supervisión. El uso excesivo puede ser tóxico. Efectiva pero requiere respeto por la dosis.
+Usada tradicionalmente en toda Latinoamérica contra parásitos intestinales. Distinguir uso culinario de hoja (cantidades de cocina) de cualquier protocolo antiparasitario medicinal. Nunca usar el aceite esencial (ascaridol: toxicidad neuro/hepato/renal; históricamente asociado a intoxicaciones graves). Infusión de hojas solo en dosis muy pequeñas, si acaso, y nunca como sustituto de diagnóstico médico de parasitosis. No usar en embarazo ni en niños pequeños. El uso excesivo puede ser tóxico.
 
 ---
 
@@ -152,7 +152,7 @@ Usada tradicionalmente en toda Latinoamérica contra parásitos intestinales. In
 
 ### Tua tua (Jatropha gossypiifolia)
 
-Para tensión, problemas de piel y dolores. Uso tradicional extendido en Venezuela. Se prepara en infusión de hojas. Usar con precaución — algunas partes de la planta son tóxicas.
+Para tensión, problemas de piel y dolores. Uso tradicional extendido en Venezuela. Se prepara en infusión de hojas. Usar con precaución — algunas partes de la planta son tóxicas; no improvisar dosis; buscar orientación profesional.
 
 ---
 

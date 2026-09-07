@@ -36,7 +36,7 @@ Proteínas, grasas y carbohidratos son todos necesarios. Ninguno es enemigo. Lo 
 
 ### Infancia
 
-Prioridad absoluta: alimentos reales, mínimo procesamiento. Frutas enteras, vegetales, proteínas de calidad, grasas naturales. Evitar la introducción temprana de azúcares y ultraprocesados. Lo que un niño come entre los 0 y 12 años programa su metabolismo para décadas.
+Prioridad absoluta: alimentos reales, mínimo procesamiento. Frutas enteras, vegetales, proteínas de calidad, grasas naturales. Evitar la introducción temprana de azúcares y ultraprocesados. Lo que un niño come entre los 0 y 12 años influye fuertemente en el riesgo metabólico a lo largo de la vida.
 
 ### Adolescencia
 
@@ -60,7 +60,7 @@ Venezuela tiene un arsenal nutricional que exporta sin consumir conscientemente.
 
 **Raíces y tubérculos:** Yuca (fibra, energía estable sin picos de glucosa), batata/camote (betacarotenos, mineral-densa), ocumo, ñame, mapuey — todos superiores nutricionalmente a las harinas refinadas como fuente de carbohidratos.
 
-**Hierbas y especias locales:** Cúrcuma con pimienta negra (la piperina aumenta la absorción de curcumina hasta 2000%), ajo (antimicrobiano, regulador de presión), jengibre (antiinflamatorio potente), cilantro, comino — todos van naturalmente en arepas, sopas o tés.
+**Hierbas y especias locales:** Cúrcuma con pimienta negra (algunos estudios farmacocinéticos antiguos sugieren que la piperina puede elevar niveles sanguíneos de curcumina; el hallazgo no está firmemente replicado y la relevancia clínica es incierta; la piperina puede interactuar con medicamentos), ajo (antimicrobiano, regulador de presión), jengibre (antiinflamatorio potente), cilantro, comino — todos van naturalmente en arepas, sopas o tés.
 
 **Proteínas accesibles:** Sardinas y atún (omega-3, económicos), huevos (proteína completa), caraotas negras y lentejas (fibra, hierro, proteína vegetal), merey/marañón (grasas saludables, magnesio).
 
@@ -74,7 +74,7 @@ Reclamar patrones alimentarios más cercanos a lo que crecía naturalmente aquí
 
 ## Ayuno intermitente
 
-La evidencia muestra que el ayuno intermitente mejora la sensibilidad a la insulina, reduce inflamación, favorece la quema de grasa y aumenta la claridad mental. No es una dieta de moda — es una práctica con respaldo creciente de investigación y con raíces en muchas tradiciones antiguas.
+Revisiones y metanálisis recientes (2024–2025) sugieren que el ayuno intermitente puede mejorar la sensibilidad a la insulina y algunos marcadores inflamatorios en muchos adultos; los resultados dependen del protocolo y no son universales. La «claridad mental» y los beneficios de longevidad están menos firmemente establecidos. No es una dieta de moda ni una obligación metabólica — es una herramienta opcional con respaldo creciente y raíces en muchas tradiciones antiguas.
 
 Para quien quiera explorarlo, la progresión gradual es clave:
 
@@ -86,7 +86,7 @@ Para quien quiera explorarlo, la progresión gradual es clave:
 
 **24 horas** — Una vez por semana, para quienes ya están adaptados. Requiere hidratación constante y no es para todos. Supervisión recomendada las primeras veces.
 
-**Lo que la evidencia dice:** Mejor metabolismo de glucosa, reducción de marcadores inflamatorios, posibles beneficios para la longevidad celular (autofagia). Los datos hasta 2025 muestran beneficios sostenidos para salud metabólica.
+**Lo que la evidencia dice:** Mejor metabolismo de glucosa, reducción de marcadores inflamatorios, posibles beneficios para la longevidad celular (autofagia). Las revisiones recientes apoyan mejoras metabólicas en muchos adultos; no son beneficios universales ni «sostenidos» para todos los protocolos.
 
 **Lo que hay que saber:** No es para embarazadas, personas con bajo peso, ni para quienes tienen historia de desórdenes alimenticios. Hidratarse bien. Escuchar al cuerpo. El ayuno no es castigo — es descanso para el sistema digestivo.
 

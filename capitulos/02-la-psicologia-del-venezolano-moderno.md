@@ -1,6 +1,8 @@
 # La psicología del venezolano moderno
 
-> "El problema no es material: el problema es mental y emocional." — Renny Ottolina
+> "Un país se hace buscando cambios de actitud, cambios en los esquemas mentales." — Renny Ottolina
+>
+> *(La frase popular «el problema no es material… es mental y emocional» se le atribuye con frecuencia; conviene verificarla en grabaciones o *Renny Presente*.)*
 
 ---
 
@@ -18,7 +20,7 @@ Uslar Pietri es el punto de partida obligatorio. Su frase "sembrar el petróleo"
 
 En sus ensayos — *Letras y hombres de Venezuela*, sus escritos sobre la venezolanidad — celebró la identidad mestiza del país y su potencial creativo. Pero al mismo tiempo advirtió, una y otra vez, sobre los peligros de una modernización caótica: un país que se urbanizó sin educarse, que se enriqueció sin trabajar, que importó todo sin producir nada propio.
 
-Uslar no fue tan duro como otros en señalar defectos del carácter nacional — era más optimista sobre el potencial. Pero su insistencia en la educación, la democracia y la interpretación consciente de la propia historia sentó la base para todo lo que vino después. Cuando escribió que el petróleo debía sembrarse, no hablaba solo de economía. Hablaba de cultura. De formar personas capaces de sostener un país.
+Uslar no fue tan duro como otros en señalar defectos del carácter nacional — era más optimista sobre el potencial. Pero su insistencia en la educación, la democracia y la interpretación consciente de la propia historia sentó la base para todo lo que vino después. Cuando escribió que el petróleo debía sembrarse, hablaba sobre todo de capacidad productiva — agricultura, cría e industria —. La extensión a cultura y a formar personas capaces de sostener un país es una lectura coherente con su obra más amplia, no la letra literal del editorial de 1936.
 
 ---
 
@@ -26,19 +28,19 @@ Uslar no fue tan duro como otros en señalar defectos del carácter nacional —
 
 Si Uslar Pietri fue el estadista-escritor, Picón Salas fue el humanista que miró más hondo. En *Comprensión de Venezuela* y otros ensayos, rechazó tanto el romanticismo provinciano como el determinismo tropical. Los venezolanos no son inferiores — lo demostraron en momentos de auge educativo y sanitario. Pero la geografía y la historia crearon distancias morales y físicas que, sin educación consciente, fragmentan al país.
 
-Picón Salas lo vio con claridad: sin cultura y sin técnica, Venezuela corría el riesgo de convertirse en una nación de "burócratas y parásitos" bajo la sombra del petróleo. Su solución era lo que llamó "formar pueblo" — una combinación de filosofía, educación y técnica que integrara comunidades, entrenara líderes que entendieran su tiempo, y atacara el atraso de raíz.
+Picón Salas lo vio con claridad en *Comprensión de Venezuela* (~1948/1949): sin cultura y sin técnica, Venezuela corría el riesgo de convertirse en una nación de «burócratas y parásitos» bajo la sombra del petróleo. Su solución era lo que llamó "formar pueblo" — una combinación de filosofía, educación y técnica que integrara comunidades, entrenara líderes que entendieran su tiempo, y atacara el atraso de raíz.
 
-Su frase clave: "La verdadera revolución suramericana es ante todo de Cultura y de Técnica." No de armas. No de decretos. De formación interior y capacidad práctica — exactamente lo que este manual propone.
+Su frase clave, en sustancia: «…la verdadera revolución suramericana… es ante todo de cultura y técnica» (*Comprensión de Venezuela*). No de armas. No de decretos. De formación interior y capacidad práctica — exactamente lo que este manual propone.
 
 ---
 
 ## Renny Ottolina (1928–1978)
 
-Ottolina fue el pionero de la televisión venezolana y, brevemente, una figura política a través del Movimiento de Integración Nacional. Pero lo que lo hace relevante aquí no es su carrera sino su diagnóstico — el más directo y brutal de todos.
+Ottolina fue el pionero de la televisión venezolana y, brevemente, una figura política a través del Movimiento de Integridad Nacional (MIN). Pero lo que lo hace relevante aquí no es su carrera sino su diagnóstico — el más directo y brutal de todos.
 
-Ottolina identificó lo que llamó un "mal atávico" en la sociedad venezolana: la viveza criolla como sistema de valores invertido, donde el que engaña es admirado y el que trabaja honestamente es considerado pendejo. Un país donde la deshonestidad, la irresponsabilidad y la picaresca se transmiten de generación en generación, produciendo lo que él describió como una "feria perpetua de engaños" — parasitismo social disfrazado de astucia.
+Ottolina denunció la viveza criolla y la inversión de valores — un país donde el que engaña es admirado y el que trabaja honestamente es considerado pendejo; donde la deshonestidad, la irresponsabilidad y la picaresca se transmiten de generación en generación como parasitismo social disfrazado de astucia. (Frases como «mal atávico» o «feria perpetua de engaños» circulan en ensayos posteriores sobre su legado; conviene no presentarlas como citas literales suyas sin fuente primaria.)
 
-Su diagnóstico fue que el problema de Venezuela no era material sino mental y emocional. Los gobiernos y los partidos fracasaban porque no fomentaban virtudes cívicas. Su propuesta — lo que llamó humanismo pragmático — era formar ciudadanos útiles a través del cambio de actitud personal: decencia, meritocracia, esfuerzo honesto, respeto a la ley. La fórmula bolivariana de "Moral y Luces" llevada a la práctica cotidiana, no a los discursos.
+Su diagnóstico insistía en que el problema de Venezuela era, ante todo, de actitud y de esquemas mentales. Los gobiernos y los partidos fracasaban porque no fomentaban virtudes cívicas. Él se describió como pragmático y humanista; su propuesta — a menudo resumida después como «humanismo pragmático» — era formar ciudadanos útiles mediante el cambio de actitud personal: decencia, meritocracia, esfuerzo honesto, respeto a la ley. Conectó esa recuperación cívica con la fórmula bolivariana de «Moral y Luces», llevada a la práctica cotidiana, no a los discursos.
 
 De todos los pensadores en esta lista, Ottolina es el que más se parece a lo que este manual propone. En los años 70 estaba diciendo exactamente lo mismo: el cambio empieza por dentro, no por arriba.
 
@@ -58,7 +60,7 @@ Su prescripción: rechazar los espejismos — ni apocalípticos ni paradisíacos
 
 ## Ana Teresa Torres (1945–)
 
-Torres aportó el ángulo más psicológico con *La herencia de la tribu: Del mito de la Independencia a la Revolución Bolivariana*. Su tesis es incómoda: la idiosincrasia venezolana está atrapada en el culto a Bolívar y a los héroes — lo que ella describió como una patología que convierte la historia en nostalgia perpetua, mesianismo y ruptura.
+Torres aportó el ángulo más psicológico con *La herencia de la tribu: Del mito de la Independencia a la Revolución Bolivariana* (Alfa, 2009). Su tesis es incómoda: la idiosincrasia venezolana está atrapada en el culto a Bolívar y a los héroes — lo que ella describió como una patología que convierte la historia en nostalgia perpetua, mesianismo y ruptura.
 
 Los mitos de la Independencia glorifican la muerte y la guerra por encima de la construcción civil. Esto crea discontinuidad institucional, fragilidad, y una adoración tribal al héroe (Bolívar como padre ausente, Chávez como redentor) que excluye al ciudadano común. Todo se convierte en "segunda Independencia" en lugar de construir el presente. La identidad heroica reemplaza la identidad cívica.
 
@@ -72,7 +74,7 @@ El vínculo con la cultivación es directo: el énfasis en el perdón, el servic
 
 Larotta Sánchez acuñó la imagen del "síndrome de la piñata" para describir un rasgo de la idiosincrasia venezolana: la expectativa de que los bienes, los cargos y las oportunidades se repartan como dulces de una piñata — sin mérito, sin esfuerzo, por cercanía al poder o por suerte.
 
-En *El síndrome de la Piñata en la idiosincrasia del venezolano* (2003), argumentó que esta mentalidad de reparto es una trampa cultural que bloquea la gobernanza competente. Cuando la expectativa colectiva es que "me toca" en lugar de "me lo gané", las instituciones se llenan de incompetencia, el clientelismo se normaliza, y la meritocracia se percibe como amenaza en lugar de solución.
+En *El síndrome de la Piñata en la idiosincrasia del venezolano* (2014; ideas que circulaban en artículos desde ~2003), argumentó que esta mentalidad de reparto es una trampa cultural que bloquea la gobernanza competente. Cuando la expectativa colectiva es que "me toca" en lugar de "me lo gané", las instituciones se llenan de incompetencia, el clientelismo se normaliza, y la meritocracia se percibe como amenaza en lugar de solución.
 
 Es una imagen dura pero útil — no como insulto sino como espejo.
 
