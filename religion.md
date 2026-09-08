@@ -1,1 +1,1 @@
-PLACEHOLDER
+@/workspace/religion_framework.md
