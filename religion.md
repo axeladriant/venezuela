@@ -16,31 +16,31 @@ La cultivación del corazón no requiere pertenecer a ninguna religión. Pero s�
 
 Los sumerios establecieron muchos de los fundamentos de lo que luego se convirtió en religión organizada. Antes de ellos sabemos poco — Göbekli Tepe y otros sitios sugieren sistemas simbólicos y ceremoniales muy anteriores a la escritura — aunque hay evidencia abundante de deificación de gobernantes.
 
-De Sumeria heredamos mitos de creación, diluvios, jerarquías divinas y la idea de que los dioses exigen servicio de los humanos. Estos moldes reaparecerán una y otra vez en todo lo que vino después. El primero en esta línea fue Enlil — y después de él, prácticamente todas las figuras supremas de los panteones siguientes pidieron lo mismo: adoración, sacrificio, rituales, tribalismo, conquista y obediencia.
+De Sumeria heredamos mitos de creación, diluvios, jerarquías divinas y la idea de que los dioses exigen servicio de los humanos. Estos moldes reaparecerán una y otra vez en todo lo que vino después. Enlil ilustra un patrón paradigmático mesopotámico de dios de autoridad con culto institucional: adoración, ofrenda, ritual y obediencia al decreto divino. Ese patrón — tipológico, no una genealogía histórica — reaparece en muchas figuras supremas posteriores. Yahvé, históricamente, se desarrolló en el mundo semítico occidental (El, Baal, Chaoskampf), no como sucesión de Enlil.
 
 ---
 
 ## El Mediterráneo: fenicios, cananeos, hebreos, griegos, romanos
 
-Los fenicios influyeron tanto en los cananeos como en los egipcios y los griegos. Sanchuniathon — conocido hoy a través de Filón de Biblos — describió cosmogonías y orígenes de ciertos conceptos que luego aparecerían transformados en otras tradiciones, incluyendo ideas sobre demonios y figuras primordiales.
+Los fenicios influyeron tanto en los cananeos como en los egipcios y los griegos. Lo que conocemos de Sanchuniathon llega a través de Filón de Biblos citado por Eusebio: una presentación helenística y euhemerista de material fenicio-cananeo — parcialmente corroborado por Ugarit —, no una crónica intacta de la Edad de Bronce. En ese filtro aparecen cosmogonías y orígenes de ciertos conceptos que luego reaparecen transformados en otras tradiciones, incluyendo ideas sobre demonios y figuras primordiales.
 
-La religión hebrea fue muy influenciada por tradiciones del sur de Egipto (¿Seth?) y por las tradiciones cananeas. El término Elohim tiene raíces en tradiciones semíticas antiguas relacionadas con los seguidores de El. Lo que hoy conocemos como judaísmo fue un proceso largo de selección, edición y reinterpretación de estas influencias múltiples.
+La religión hebrea fue muy influenciada por tradiciones del sur de Egipto (¿Seth?) y por las tradiciones cananeas. Elohim es un plural morfológico emparentado con El/ʾeloah; en la Biblia hebrea suele designar al Dios de Israel en singular, y refleja el lenguaje del panteón de El y la fusión histórica de tradiciones de El con Yahvé — no el nombre de un grupo de adeptos de El. Lo que hoy conocemos como judaísmo fue un proceso largo de selección, edición y reinterpretación de estas influencias múltiples.
 
 Todo esto fue eventualmente absorbido y reformado bajo el dominio romano, que tenía sus propias tradiciones (Júpiter, el panteón) y una larga práctica de sincretismo — adoptar y adaptar los dioses de los pueblos conquistados.
 
-Todas estas figuras — Enlil, Yahvé, Júpiter, y las que vinieron después — reclamaron haberlo creado todo. Pero sabemos que no es tan simple. Este mundo es una red compleja de progreso en la que la vida toma muchas formas, y es más antigua y más fantástica que cualquier deidad. El universo entero estaba fuera de su aparentemente infinito conocimiento. Fueron los humanos quienes, paso a paso, impulsados por nuestro locamente incoherente deseo de explorar todo, nos acercamos a la verdad.
+Figuras como Enlil, Yahvé o Júpiter ilustran — en clave tipológica, no genealógica — el patrón de dioses altos que reclaman creación y lealtad. Pero sabemos que no es tan simple. Este mundo es una red compleja de progreso en la que la vida toma muchas formas, y es más antigua y más fantástica que cualquier deidad. El universo entero estaba fuera de su aparentemente infinito conocimiento. Fueron los humanos quienes, paso a paso, impulsados por nuestro locamente incoherente deseo de explorar todo, nos acercamos a la verdad.
 
 ---
 
 ## La línea divisoria
 
-Este Manual propone una línea interpretativa para distinguir dos tipos de tradición espiritual.
+Este Manual propone un marco interpretativo — una hipótesis de lectura, no un modelo probado — para distinguir dos tendencias espirituales.
 
-De un lado están los sistemas que exigen adoración, sacrificio, rituales, obediencia y conquista. Enlil fue el primero. Después vinieron los demás — con diferentes nombres, diferentes culturas, diferentes épocas, pero el mismo patrón: un dios en la cima que demanda sumisión a cambio de protección o beneficio material.
+De un lado están los sistemas que exigen adoración, sacrificio, rituales, obediencia y conquista. Enlil no aparece aquí como "el primero" en sentido histórico universal, sino como un patrón tipológico temprano y bien documentado de dios de autoridad con culto institucional: un poder en la cima que demanda sumisión a cambio de protección, orden o beneficio material.
 
-Del otro lado están los cultivadores del corazón. Buda nunca pidió ser adorado. Laozi nunca pidió templos. Jesús nunca pidió rituales de sangre. Su enseñanza era interior: observarse, transformarse, amar. No exigieron nada — ofrecieron un camino.
+Del otro lado están los cultivadores del corazón. Buda y Laozi, en las fuentes más tempranas, aparecen más como maestros de práctica interior que como promotores de culto personal. Jesús, por su parte, enfatizó misericordia, conversión del corazón y crítica del ritual vacío; su relación con el Templo fue conflictiva, pero afirmar que buscó su abolición total como programa histórico excede lo demostrable.
 
-Esa es la línea interpretativa que este Manual considera más útil para leer la historia religiosa.
+En este Manual, esta línea funciona como brújula interpretativa para leer patrones — no como frontera rígida ni como genealogía cerrada.
 
 Pero la vida real no respeta líneas limpias. En la práctica, ambos lados coexisten dentro de las mismas tradiciones — a veces dentro de la misma persona. El catolicismo colonial llegó a América con la espada y la cruz, exigiendo sumisión, pero dentro de ese mismo sistema nacieron Francisco de Asís, los cátaros y los místicos que buscaban algo genuino. El sufismo nació dentro del Islam. El budismo zen floreció junto a imperios que lo usaban para legitimar la guerra. La historia de la fe no se entiende trazando líneas rígidas solamente — también hay que explorar los espacios complejos donde la humanidad simplemente intenta sobrevivir, encontrar sentido, y a veces, en medio de todo eso, toca algo verdadero.
 
@@ -54,21 +54,21 @@ Una nota importante: las figuras históricas que colocamos del lado de los culti
 
 ## La figura materna
 
-Pero antes de los dioses que exigieron sumisión, hubo otra figura. En el Atrahasis, Mami (Ninhursag) fue quien, junto a Enki, creó o reclamó la naturaleza, la vida, y participó en la creación de los humanos. Ella no pedía adoración — daba vida.
+Pero antes de muchos sistemas religiosos centrados en la sumisión, aparece otra figura. En el Atrahasis, la creación humana se asocia a una matriz divina vinculada a Mami/Belet-ili (también Nintu/Ninhursag), junto a Enki, con barro y componente de sangre divina. En la lectura de este Manual, esa escena expresa un imaginario maternal de origen y cuidado.
 
-Desde ese punto, la humanidad siempre ha amado — quizás no adorado, pero sí amado — una figura materna. Y este hilo nunca se rompió. Cambiaron los nombres, cambiaron las culturas, pero la madre permaneció.
+Desde ese punto, la humanidad vuelve una y otra vez a una figura materna. Este Manual lee ese retorno como continuidad funcional de una necesidad humana profunda, más que como una línea genealógica única. Cambiaron los nombres, cambiaron las culturas, pero la madre reaparece.
 
 ### El hilo ininterrumpido
 
-De Mami nacieron Inanna e Ishtar en Mesopotamia — diosas de la fertilidad, el amor y la guerra, complejas y poderosas. En Asia, Nüwa moldeó a los humanos del barro y reparó el cielo. Izanami dio a luz las islas de Japón. En Egipto, Isis fue madre, sanadora y guardiana de los muertos — y su culto sobrevivió hasta bien entrada la era romana. En Canaán, Asherah fue la consorte de El y luego de Yahvé.
+En Mesopotamia, Inanna e Ishtar expresan funciones poderosas de fertilidad, amor, soberanía y guerra que resuenan con ese patrón maternal ampliado, sin que eso implique filiación literal "hija de Mami" en sentido histórico directo. En Asia, Nüwa moldeó a los humanos del barro y reparó el cielo. Izanami dio a luz las islas de Japón. En Egipto, Isis fue madre, sanadora y guardiana de los muertos — y su culto sobrevivió hasta bien entrada la era romana. En Canaán, Asherah aparece como consorte de El y, en parte de la evidencia epigráfica (Kuntillet ʿAjrud y Khirbet el-Qom), asociada también a fórmulas vinculadas a Yahvé.
 
-Pero no hubo un único "divorcio" fechado con claridad. La composición bíblica fue estratificada y se extendió por siglos; dentro de ese proceso, las reformas monoteístas fueron marginando el culto a Asherah y otras expresiones religiosas vinculadas a la figura femenina. Desde la lectura de este Manual, esa marginación no solo redujo la influencia femenina en la religión, sino que también reforzó estructuras donde la mujer quedó más subordinada al hombre.
+Pero no hubo un único "divorcio" fechado con claridad. La composición bíblica fue estratificada y se extendió por siglos; dentro de ese proceso, especialmente entre reformas deuteronomistas tardomonárquicas y dinámicas exílicas/postexílicas, se fue marginando el culto a Asherah y otras expresiones religiosas vinculadas a la figura femenina. Desde la lectura de este Manual, esa marginación no solo redujo la influencia femenina en la religión, sino que también reforzó estructuras donde la mujer quedó más subordinada al hombre.
 
 Las historias bíblicas tienden a culpar a las mujeres por los problemas (Eva, Dalila, Jezabel) o a idealizar a la mujer sumisa y callada como la esposa perfecta. Esto no es un detalle menor — es un patrón deliberado que moldeó milenios de relación entre géneros.
 
-Y sin embargo, la madre volvió. Júpiter y los romanos trataron mejor a las mujeres — quizás gracias a Hera y a todas las figuras femeninas poderosas de su fuente griega, y a las culturas europeas donde el rol de la madre es más respetado. María, la madre de Jesús, recibió de los romanos atributos de Artemisa y Atenea, convirtiéndose en algo mucho más grande que lo que el contexto hebreo le habría permitido ser. El hilo se restableció.
+Y sin embargo, la madre volvió. María, la madre de Jesús, creció enormemente en la piedad tardoantigua y medieval; en ese proceso, varios autores señalan resonancias funcionales e iconográficas debatidas con figuras como Artemisa o Atenea, más que un simple "traspaso" lineal de atributos. El hilo comparativo se restableció como necesidad religiosa.
 
-Siguiendo la línea abrahámica, este Manual interpreta que ciertas lecturas e instituciones islámicas llevaron la degradación de la mujer aún más lejos. En sus expresiones más extremas, las mujeres aparecen tratadas como premios para los creyentes que alcanzan el paraíso — las Hoor al-Ayn (compañeras puras de ojos brillantes) o Azwaj Mutahharah (esposas purificadas) del Jannah. Solo Maryam (la madre de Jesús) y Fatimah (la hija de Muhammad) son elevadas como modelos — y ambas, con frecuencia, como figuras virginales y sumisas. En esta interpretación del Manual, allí la madre fue reducida de nuevo.
+Siguiendo la línea abrahámica, este Manual interpreta que ciertas lecturas e instituciones islámicas reforzaron dinámicas de subordinación de la mujer. En sus expresiones más extremas, algunas narrativas tratan a las mujeres como recompensa escatológica para creyentes en el paraíso — con referencias como Hoor al-Ayn o Azwaj Mutahharah en discusiones sobre Jannah. Maryam y Fatimah también aparecen como modelos de alta dignidad religiosa, aunque a menudo leídas desde ideales de pureza y obediencia. En esta lectura del Manual, allí la madre vuelve a comprimirse.
 
 ### La madre llega a Venezuela
 
@@ -78,9 +78,9 @@ Venezuela sigue la línea romana. Las muchas advocaciones de la Virgen María so
 
 Y junto a la María católica, la madre también llegó por otros caminos. Bárbara de Nicomedia, mártir cristiana del periodo romano temprano, conocida como Santa Bárbara, fue sincretizada con Shangó de la tradición yoruba. Las diosas africanas — Yemayá, Ochún — se fusionaron con vírgenes católicas, preservando la presencia maternal a través de la esclavitud y el sincretismo.
 
-Y luego está María Lionza (Yara) — princesa indígena, diosa de la naturaleza, protectora de ríos y animales. Ella no viene de Mami ni de Isis ni de María. Viene de la tierra misma. Y sin embargo, ocupa exactamente el mismo lugar: la madre que da vida, que protege, que sana. El hilo que comenzó en el Atrahasis llega hasta la montaña de Sorte en Yaracuy — no por transmisión cultural directa, sino porque la necesidad humana de la madre es anterior a cualquier religión.
+Y luego está María Lionza (Yara) — princesa indígena, diosa de la naturaleza, protectora de ríos y animales. No se plantea aquí una descendencia histórica directa entre Mami, Isis, Asherah, María y María Lionza; se plantea una continuidad comparativa de función: la madre que da vida, protege y sana. El hilo llega hasta la montaña de Sorte en Yaracuy no por transmisión lineal comprobada, sino por persistencia de la necesidad humana de la madre.
 
-De Mami a Inanna, de Isis a Asherah, de Asherah borrada a María restaurada, de María a la Divina Pastora, de las diosas africanas a Yemayá en el Caribe, de la tierra venezolana a María Lionza — el hilo nunca se rompió.
+De Mami a Inanna, de Isis a Asherah, de Asherah marginada a María engrandecida, de María a la Divina Pastora, de las diosas africanas a Yemayá en el Caribe, de la tierra venezolana a María Lionza: este Manual lo lee como un hilo comparativo de la necesidad.
 
 ---
 
@@ -100,23 +100,23 @@ La veneración de ancestros también es muy importante en estas tradiciones — 
 
 Luego apareció Jesús. Sabemos poco de él — ni de su nacimiento ni de su crianza — pero lo poco que sabemos ha sido extraordinariamente poderoso.
 
-Su mensaje central parece haber sido la cultivación interior, el amor al prójimo y una relación directa con lo que él llamó el Padre — sin intermediarios, sin templos como requisito, sin rituales de sangre.
+Su mensaje central parece haber sido la cultivación interior, el amor al prójimo y una relación directa con lo que él llamó el Padre — relativizando la mediación institucional, cuestionando el ritualismo vacío y abriendo una vía ética interior.
 
 ### El Padre
 
 El Padre del que Jesús habló es amor. No amor romántico, sino el amor que se experimenta en el sacrificio, en la paternidad, en la entrega desinteresada. También en la vejez — donde existe el potencial de alcanzar una claridad que no llega automáticamente, sino que requiere el trabajo interior. Incluso quienes vivieron mal pueden alcanzar esa lucidez cuando el tiempo les quita las máscaras: el padre ausente que busca el perdón de sus hijos, los abuelos que tratan a sus nietos con un amor que no supieron dar a sus propios hijos, porque ahora entienden. Y no hay medicina para el arrepentimiento — solo la posibilidad de actuar diferente con el tiempo que queda. Los humanos sabemos cómo se siente ese amor. No necesitamos que nos lo expliquen — lo reconocemos.
 
-En la lectura comparativa de este Manual, esto coloca a Jesús mucho más cerca de Buda y Laozi que de Moisés o Muhammad. Su Padre no es un dios que exige sacrificios. Es la fuente de esa chispa interior que crece cuando la cultivamos. Y de todo lo que hemos explorado como humanidad — de toda nuestra locamente incoherente búsqueda — hay algo que parece verdadero: amarnos los unos a los otros es el núcleo del aumento de nuestra conciencia. Usar ese lente para mirar la vida es extraordinariamente poderoso, y es lógico.
+En la lectura comparativa de este Manual, esto coloca a Jesús mucho más cerca de Buda y Laozi como patrón filosófico de transformación interior que de proyectos religiosos centrados en ley ritual y poder. En dichos con atestiguación múltiple (tradición sinóptica compartida y materiales de Q en Mateo/Lucas), aparecen núcleos claros: amor a los enemigos, misericordia, inversión del estatus y confianza en la generosidad del Padre. Su Padre no es un dios reducido a contabilidad sacrificial, sino fuente de una chispa interior que crece cuando la cultivamos. Y de todo lo que hemos explorado como humanidad — de toda nuestra locamente incoherente búsqueda — hay algo que parece verdadero: amarnos los unos a los otros es el núcleo del aumento de nuestra conciencia. Usar ese lente para mirar la vida es extraordinariamente poderoso, y es lógico.
 
 ### Lo que vino después
 
 Lo que ocurrió después de su muerte es donde las cosas se complican.
 
-Tanto Yahvé como Júpiter fueron presentados como el Padre del que Jesús habló. La tradición católica tomó las tradiciones hebreas y las justificó a través del Nuevo Testamento — que tiene lagunas pero se cree como dogma.
+Tras su muerte, los primeros cristianos identificaron mayoritariamente al Padre con el Dios de Israel, en continuidad con el Shema (Marcos 12) y la lectura de las Escrituras judías. Más tarde, la recepción grecorromana releyó ese lenguaje en sus propios marcos filosófico-religiosos. En esta zona hay un punto falsable y abierto: si Jesús reveló la verdad más profunda del Dios de Israel, si corrigió radicalmente su comprensión histórica, o si marcó una distinción mayor de lo que luego afirmó la ortodoxia.
 
-Los seguidores de Jesús estaban muy confundidos. Pedro, por ejemplo, es alabado como el fundador de la iglesia — pero fue la iglesia misma la que terminó tratando a María Magdalena como una prostituta, lo cual está muy, muy lejos de la verdad.
+Los seguidores de Jesús estaban muy confundidos. Pedro, por ejemplo, es alabado como figura fundacional de la iglesia. María Magdalena, en cambio, no fue "la prostituta" de los evangelios: esa fusión fue consolidada en Occidente por Gregorio I (591), y corregida oficialmente en etapas posteriores (1969 en la reforma litúrgica romana; 2016 al elevar su memoria litúrgica).
 
-Los textos de Nag Hammadi que hoy conservamos están en códices del siglo IV. La composición de varios de ellos — especialmente el Evangelio de Tomás — sigue siendo debatida, y muchos especialistas los sitúan entre finales del siglo I y el siglo II, no antes del núcleo canónico más temprano. Aun así, textos como el Evangelio de Tomás, el Evangelio de María y el Evangelio de Felipe pintan un retrato de la enseñanza de Jesús mucho más interior, centrado en el conocimiento directo (gnosis) más que en la obediencia a sacerdotes. Los códices fueron enterrados en el siglo IV, precisamente cuando la iglesia institucional consolidaba su poder; atribuir ese entierro únicamente a la violencia usada para cementar el canon oficial es una hipótesis plausible, pero no un hecho único demostrado. Eso no es algo que Jesús haría.
+Los textos de Nag Hammadi que hoy conservamos están en códices del siglo IV. La composición de varios de ellos — especialmente el Evangelio de Tomás — sigue siendo debatida, y la posición mayoritaria lo ubica en el siglo II (con posibles estratos más tempranos discutidos), no "más antiguo que los canónicos". Textos como el Evangelio de María y el Evangelio de Felipe suelen fecharse aún más tarde. Aun así, pintan un retrato de la enseñanza de Jesús más interior, centrado en el conocimiento directo (gnosis) más que en la obediencia a sacerdotes. Los códices fueron enterrados en el siglo IV, precisamente cuando la iglesia institucional consolidaba su poder; vincular ese entierro con presiones doctrinales es una hipótesis razonable, pero sigue siendo hipótesis y no hecho único demostrado. Eso no es algo que Jesús haría.
 
 Esto no significa adoptar la cosmología gnóstica completa — el Pleroma y sus emanaciones son elaboraciones que no necesariamente se sostienen. Y otras tradiciones posteriores también intentaron establecer nuevos cánones con resultados muy fantasiosos (como el Libro de Urantia). Pero el hecho de que textos alternativos fueran marginados, condenados o destruidos mientras una versión institucional se imponía por la fuerza debería dar que pensar.
 
@@ -128,11 +128,11 @@ Otros movimientos, como los cátaros (Bons Hommes), que buscaban interpretacione
 
 Antes de Muhammad, la península arábiga tenía sus propias tradiciones religiosas — politeístas, tribales, con raíces que algunos conectan con tradiciones semíticas más antiguas. Estas creencias preislámicas aún perviven en ciertas prácticas y merecen estudio por su propia cuenta.
 
-Aproximadamente medio milenio después de Jesús apareció Muhammad. El Islam se convirtió en una religión muy material que también reclamó representar al Padre referido en las palabras de Jesús. En la lectura de este Manual, su corriente principal — particularmente en su expresión jihadista y en el modelo del estado bajo Sharia — parece requerir adoración y obediencia a cambio de beneficios materiales y orden social. En este marco interpretativo, Jesús fue degradado al estatus de profeta.
+Aproximadamente medio milenio después de Jesús apareció Muhammad. El Islam se convirtió en una tradición religiosa y civilizatoria amplia que también reclamó continuidad con el Dios de Abraham. En la lectura de este Manual, parte importante de su corriente histórica institucional — en especial en expresiones legalistas o jihadistas — parece requerir obediencia y pertenencia comunitaria a cambio de orden social y promesa de recompensa.
 
-En términos de la línea divisoria propuesta por este Manual, el Islam mainstream cae del mismo lado que las tradiciones que exigen sumisión — más cercano, en esta interpretación, a las creencias cananeas o a la santería que al mensaje original de Jesús. Es, en muchos sentidos y dentro de este marco, lo opuesto a lo que Jesús enseñó. De la misma manera que las leyes de Moisés no se conectan con el mensaje de Jesús, el Islam institucional tampoco lo hace en esta lectura.
+En términos de la línea divisoria propuesta por este Manual, el Islam mainstream cae con mayor frecuencia del lado de tradiciones que enfatizan sumisión, ley y comunidad por encima de la interioridad radical. Dentro de este marco, su distancia frente al mensaje ético interior atribuido a Jesús puede ser significativa, aunque no absoluta ni idéntica en todas sus escuelas y épocas.
 
-Sin embargo, existe una tradición mística dentro del Islam — el sufismo — que se acerca mucho más a la cultivación del corazón. Rumi, al-Hallaj, Ibn Arabi buscaron una relación interior con lo divino que no pasaba por la obediencia mecánica. Al-Hallaj fue ejecutado por decir "Ana al-Haqq" (Yo soy la Verdad) — algo que suena notablemente parecido a lo que diría un gnóstico o un seguidor místico de Jesús. Los sufíes aparecieron *a pesar* del sistema, no gracias a él — igual que Francisco de Asís apareció a pesar del catolicismo institucional.
+Sin embargo, existe una tradición mística dentro del Islam — el sufismo — que se acerca mucho más a la cultivación del corazón. Rumi, al-Hallaj, Ibn Arabi buscaron una relación interior con lo divino que no pasaba por la obediencia mecánica. Al-Hallaj fue ejecutado por decir "Ana al-Haqq" (Yo soy la Verdad) — algo que suena notablemente parecido a lo que diría un gnóstico o un seguidor místico de Jesús. Los sufíes, según tiempo y lugar, fueron a veces perseguidos y a veces incorporados a marcos institucionales.
 
 Este documento describe el estado de las cosas más que dar un veredicto final. Pero la observación es clara: donde hay exigencia de sumisión, hay distancia del mensaje de los cultivadores.
 
@@ -210,9 +210,9 @@ Pero el rechazo a las instituciones religiosas no necesariamente responde a la p
 
 ## El diablo
 
-El diablo aparece en muchas formas a lo largo de las tradiciones: Angra Mainyu en el zoroastrismo; el satán/adversario en el Tanaj hebreo, en usos y pasajes como Job, Zacarías y Crónicas; la serpiente en el jardín (que se asemeja a mitos prometeicos o tipo Enki); y los diversos demonios en las tradiciones hindúes. La tentación de Jesús pertenece a los evangelios del Nuevo Testamento, no al Tanaj. Sanchuniathon, conocido por vía de Filón de Biblos, también describió orígenes de ciertos conceptos demoníacos.
+El diablo aparece en muchas formas a lo largo de las tradiciones: Angra Mainyu en el zoroastrismo; el satán/adversario en el Tanaj hebreo, en usos y pasajes como Job, Zacarías y Crónicas; y los diversos demonios en tradiciones hindúes. En la Biblia hebrea, la serpiente del Génesis no está identificada explícitamente con Satanás. La tentación de Jesús pertenece a los evangelios del Nuevo Testamento, no al Tanaj. También importa distinguir Isaías 14: hêlēl ben shájar — sátira contra el rey de Babilonia — de la posterior fusión latina "Lucifer" con el diablo. Sanchuniathon, conocido por vía de Filón de Biblos citado por Eusebio, también describe orígenes de ciertos conceptos demoníacos.
 
-El diablo en la teología católica es en gran medida una mezcla de ideas que se desarrollaron con el tiempo, combinando diferentes tradiciones e interpretaciones posteriores de Satán — quien en los textos tempranos aparece más como un miembro del consejo divino (Elohim) que como un adversario cósmico. La figura del mal absoluto personificado es una construcción tardía.
+El diablo en la teología católica es en gran medida una mezcla de ideas que se desarrollaron con el tiempo, combinando diferentes tradiciones e interpretaciones posteriores de Satán — quien en textos tempranos como Job aparece como ha-satan, un acusador dentro de la corte divina más que un rival absoluto de Dios. Las semejanzas con motivos prometeicos o con figuras como Enki pueden leerse por resonancia funcional, no por identidad con Satanás. La figura del mal absoluto personificado es una construcción tardía.
 
 ### El Ánima Sola
 
